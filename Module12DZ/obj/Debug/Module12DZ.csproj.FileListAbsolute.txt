@@ -1,0 +1,7 @@
+C:\Users\qznur\source\repos\Module12DZ\Module12DZ\obj\Debug\Module12DZ.csproj.AssemblyReference.cache
+C:\Users\qznur\source\repos\Module12DZ\Module12DZ\obj\Debug\Module12DZ.csproj.CoreCompileInputs.cache
+C:\Users\qznur\source\repos\Module12DZ\Module12DZ\bin\Debug\Module12DZ.exe.config
+C:\Users\qznur\source\repos\Module12DZ\Module12DZ\bin\Debug\Module12DZ.exe
+C:\Users\qznur\source\repos\Module12DZ\Module12DZ\bin\Debug\Module12DZ.pdb
+C:\Users\qznur\source\repos\Module12DZ\Module12DZ\obj\Debug\Module12DZ.exe
+C:\Users\qznur\source\repos\Module12DZ\Module12DZ\obj\Debug\Module12DZ.pdb
